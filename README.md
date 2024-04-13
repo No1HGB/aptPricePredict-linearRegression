@@ -4,7 +4,7 @@
 
 #### 아파트 가격 영향 요소(수집 데이터)
 
-<p align="right">
+<p align="left">
   <img src="/images/factor.png" alt="가격 영향 요소" style="width: 40%;margin-right:1%;">
 </p>
 
