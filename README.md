@@ -10,25 +10,25 @@
 
 #### 데이터 분석
 
-<p align="right">
+<p align="left">
   <img src="/images/data_analysis.png" alt="데이터 분석 1" style="width: 40%;margin-right:1%;">
   <img src="/images/data_analysis2.png" alt="데이터 분석 2" style="width: 40%;margin-right:1%;">
 </p>
 
 #### 정책 효과
 
-<p align="right">
+<p align="left">
   <img src="/images/policy.png" alt="정책 효과" style="width: 40%;margin-right:1%;">
 </p>
 
 ### 예측 결과
 
-<p align="right">
+<p align="left">
   <img src="/images/result.png" alt="예측 결과" style="width: 40%;margin-right:1%;">
 </p>
 
 ### 한계점
 
-<p align="right">
+<p align="left">
   <img src="/images/limitation.png" alt="한계점" style="width: 40%;margin-right:1%;">
 </p>
