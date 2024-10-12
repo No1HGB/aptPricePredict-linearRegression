@@ -1,5 +1,7 @@
 # 2022년 하반기 아파트 가격예측
 
+## 발표 ppt: https://drive.google.com/file/d/1AiQLNhGFNy9xLh8OcJQ5wizaoJSKMFai/view?usp=sharing
+
 - 다중선형회귀모델 사용(ML)
 
 #### 아파트 가격 영향 요소(수집 데이터)
